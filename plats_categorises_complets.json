@@ -1,0 +1,1555 @@
+[
+  {
+    "day": "LUNDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Skyr + abricots + flocons avoine",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "abricot",
+      "flocon",
+      "skyr"
+    ],
+    "fruits": [
+      "abricot"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "skyr"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "flocon"
+    ],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🍽️",
+    "name": "Entrée : Carpaccio de courgettes citronnées",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "courgette"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "courgette"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🥘",
+    "name": "Plat : Filet de truite + riz + poêlée de fenouil",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "riz",
+      "fenouil",
+      "truite"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "fenouil"
+    ],
+    "proteins": {
+      "animal": [
+        "truite"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "riz"
+    ],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🍓",
+    "name": "Dessert : Compote pomme-framboise maison",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "framboise"
+    ],
+    "fruits": [
+      "pomme",
+      "framboise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🕒",
+    "name": "Goûter : Pêche + 10 amandes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "amande",
+      "pêche"
+    ],
+    "fruits": [
+      "pêche"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "amande"
+    ]
+  },
+  {
+    "day": "MARDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Pain complet + purée noisette + kiwi",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "kiwi",
+      "pain"
+    ],
+    "fruits": [
+      "kiwi"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "pain"
+    ],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🍽️",
+    "name": "Entrée : Salade de betteraves et feta",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "betterave",
+      "feta",
+      "salade"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "betterave",
+      "salade"
+    ],
+    "proteins": {
+      "animal": [
+        "feta"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🥘",
+    "name": "Plat : Wok de tofu + nouilles de riz + brocolis",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "tofu",
+      "nouille",
+      "brocoli",
+      "riz"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "brocoli"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "tofu"
+      ]
+    },
+    "carbs": [
+      "riz",
+      "nouille"
+    ],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🍓",
+    "name": "Dessert : Pastèque",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pastèque"
+    ],
+    "fruits": [
+      "pastèque"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🕒",
+    "name": "Goûter : Banane + yaourt nature",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "banane",
+      "yaourt"
+    ],
+    "fruits": [
+      "banane"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "yaourt"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Porridge lait végétal + banane + graines",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "banane",
+      "porridge",
+      "graines"
+    ],
+    "fruits": [
+      "banane"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "porridge"
+    ],
+    "fats": [
+      "graines"
+    ]
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🍽️",
+    "name": "Entrée : Concombre au yaourt et menthe",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "concombre",
+      "yaourt"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "concombre"
+    ],
+    "proteins": {
+      "animal": [
+        "yaourt"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🥘",
+    "name": "Plat : Tajine de poulet aux légumes + semoule",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "semoule",
+      "poulet"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "poulet"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "semoule"
+    ],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🍓",
+    "name": "Dessert : Fraises fraîches",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "fraise"
+    ],
+    "fruits": [
+      "fraise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🕒",
+    "name": "Goûter : Pomme + 10 noix",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "noix"
+    ],
+    "fruits": [
+      "pomme"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "noix"
+    ]
+  },
+  {
+    "day": "JEUDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Fromage blanc + flocons + nectarine + graines",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "nectarine",
+      "graines",
+      "flocon",
+      "fromage"
+    ],
+    "fruits": [
+      "nectarine"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "fromage"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "flocon"
+    ],
+    "fats": [
+      "graines"
+    ]
+  },
+  {
+    "day": "JEUDI",
+    "type": "🍽️",
+    "name": "Entrée : Carottes râpées vinaigrette",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "carotte"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "carotte"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "JEUDI",
+    "type": "🥘",
+    "name": "Plat : Dahl de lentilles corail + riz + épinards",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "lentille",
+      "épinard",
+      "riz"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "épinard"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "lentille"
+      ]
+    },
+    "carbs": [
+      "riz"
+    ],
+    "fats": []
+  },
+  {
+    "day": "JEUDI",
+    "type": "🍓",
+    "name": "Dessert : Compote de poires maison",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "poire"
+    ],
+    "fruits": [
+      "poire"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "JEUDI",
+    "type": "🕒",
+    "name": "Goûter : Cerises + carré chocolat noir",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "chocolat",
+      "cerise"
+    ],
+    "fruits": [
+      "cerise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "chocolat"
+    ]
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Pain céréales + fromage frais + groseilles",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "fromage",
+      "pain"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "fromage"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "pain"
+    ],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🍽️",
+    "name": "Entrée : Taboulé de quinoa aux légumes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "quinoa"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "quinoa"
+    ],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🥘",
+    "name": "Plat : Cabillaud au four + pommes vapeur + haricots verts",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "cabillaud",
+      "haricot"
+    ],
+    "fruits": [
+      "pomme"
+    ],
+    "vegetables": [
+      "haricot"
+    ],
+    "proteins": {
+      "animal": [
+        "cabillaud"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🍓",
+    "name": "Dessert : Melon",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "melon"
+    ],
+    "fruits": [
+      "melon"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🕒",
+    "name": "Goûter : Abricot + yaourt nature",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "abricot",
+      "yaourt"
+    ],
+    "fruits": [
+      "abricot"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "yaourt"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Smoothie fruits rouges + tartines purée amande",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "tartine",
+      "amande"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "tartine"
+    ],
+    "fats": [
+      "amande"
+    ]
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🍽️",
+    "name": "Entrée : Tomate mozzarella",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "tomate",
+      "mozzarella"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "tomate"
+    ],
+    "proteins": {
+      "animal": [
+        "mozzarella"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🥘",
+    "name": "Plat : Curry de pois chiches + patate douce + courgettes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "patate",
+      "courgette",
+      "pois chiche"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "courgette"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "pois chiche"
+      ]
+    },
+    "carbs": [
+      "patate"
+    ],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🍓",
+    "name": "Dessert : Compote pêche maison",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pêche"
+    ],
+    "fruits": [
+      "pêche"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🕒",
+    "name": "Goûter : Poire + amandes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "amande",
+      "poire"
+    ],
+    "fruits": [
+      "poire"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "amande"
+    ]
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Pain complet + purée noisette + myrtilles",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "myrtille",
+      "pain"
+    ],
+    "fruits": [
+      "myrtille"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "pain"
+    ],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🍽️",
+    "name": "Entrée : Crudités au citron (radis, carotte, concombre)",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "concombre",
+      "carotte",
+      "radis"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "carotte",
+      "concombre",
+      "radis"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🥘",
+    "name": "Plat : Gratin de légumes + lentilles",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "lentille"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "lentille"
+      ]
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🍓",
+    "name": "Dessert : Raisin blanc",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "raisin"
+    ],
+    "fruits": [
+      "raisin"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🕒",
+    "name": "Goûter : Nectarine + fromage",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "nectarine",
+      "fromage"
+    ],
+    "fruits": [
+      "nectarine"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "fromage"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Fromage blanc + myrtilles + flocons d’avoine",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "fromage",
+      "flocon",
+      "myrtille"
+    ],
+    "fruits": [
+      "myrtille"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "fromage"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "flocon"
+    ],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🍽️",
+    "name": "Entrée : Salade de radis et carottes râpées",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "carotte",
+      "radis",
+      "salade"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "carotte",
+      "radis",
+      "salade"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🥘",
+    "name": "Plat : Curry de lentilles vertes + riz + épinards",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "lentille",
+      "épinard",
+      "riz"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "épinard"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "lentille"
+      ]
+    },
+    "carbs": [
+      "riz"
+    ],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🍓",
+    "name": "Dessert : Compote de pomme-abricot maison",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "abricot"
+    ],
+    "fruits": [
+      "pomme",
+      "abricot"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "LUNDI",
+    "type": "🕒",
+    "name": "Goûter : Pêche + 10 amandes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "amande",
+      "pêche"
+    ],
+    "fruits": [
+      "pêche"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "amande"
+    ]
+  },
+  {
+    "day": "MARDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Tartines pain complet + purée d’amande + fraises",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "tartine",
+      "purée d’amande",
+      "amande",
+      "fraise",
+      "pain"
+    ],
+    "fruits": [
+      "fraise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "pain",
+      "tartine"
+    ],
+    "fats": [
+      "purée d’amande",
+      "amande"
+    ]
+  },
+  {
+    "day": "MARDI",
+    "type": "🍽️",
+    "name": "Entrée : Concombre à la menthe",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "concombre"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "concombre"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🥘",
+    "name": "Plat : Filet de poulet grillé + patate douce + haricots verts",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "patate",
+      "poulet",
+      "haricot"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "haricot"
+    ],
+    "proteins": {
+      "animal": [
+        "poulet"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "patate"
+    ],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🍓",
+    "name": "Dessert : Melon",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "melon"
+    ],
+    "fruits": [
+      "melon"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MARDI",
+    "type": "🕒",
+    "name": "Goûter : Banane + yaourt",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "banane",
+      "yaourt"
+    ],
+    "fruits": [
+      "banane"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "yaourt"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Smoothie kiwi-banane + tartine fromage frais",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "fromage",
+      "banane",
+      "tartine",
+      "kiwi"
+    ],
+    "fruits": [
+      "banane",
+      "kiwi"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "fromage"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "tartine"
+    ],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🍽️",
+    "name": "Entrée : Betteraves râpées vinaigrette",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "betterave"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "betterave"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🥘",
+    "name": "Plat : Boulettes de pois chiches + semoule + courgettes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "courgette",
+      "semoule",
+      "pois chiche"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "courgette"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "pois chiche"
+      ]
+    },
+    "carbs": [
+      "semoule"
+    ],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🍓",
+    "name": "Dessert : Nectarine",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "nectarine"
+    ],
+    "fruits": [
+      "nectarine"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "MERCREDI",
+    "type": "🕒",
+    "name": "Goûter : Poire + 10 noix",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "noix",
+      "poire"
+    ],
+    "fruits": [
+      "poire"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "noix"
+    ]
+  },
+  {
+    "day": "JEUDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Porridge lait végétal + pêche + graines",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pêche",
+      "porridge",
+      "graines"
+    ],
+    "fruits": [
+      "pêche"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "porridge"
+    ],
+    "fats": [
+      "graines"
+    ]
+  },
+  {
+    "day": "JEUDI",
+    "type": "🍽️",
+    "name": "Entrée : Taboulé de quinoa aux légumes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "quinoa"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "quinoa"
+    ],
+    "fats": []
+  },
+  {
+    "day": "JEUDI",
+    "type": "🥘",
+    "name": "Plat : Saumon au four + pommes vapeur + brocolis",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "saumon",
+      "brocoli"
+    ],
+    "fruits": [
+      "pomme"
+    ],
+    "vegetables": [
+      "brocoli"
+    ],
+    "proteins": {
+      "animal": [
+        "saumon"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "JEUDI",
+    "type": "🍓",
+    "name": "Dessert : Compote de poire maison",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "poire"
+    ],
+    "fruits": [
+      "poire"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "JEUDI",
+    "type": "🕒",
+    "name": "Goûter : Abricot + carré chocolat noir",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "abricot",
+      "chocolat"
+    ],
+    "fruits": [
+      "abricot"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "chocolat"
+    ]
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Pain aux céréales + purée noisette + pomme",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "pain"
+    ],
+    "fruits": [
+      "pomme"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "pain"
+    ],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🍽️",
+    "name": "Entrée : Crudités citronnées (radis, concombre, salade)",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "concombre",
+      "salade",
+      "radis"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "concombre",
+      "radis",
+      "salade"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🥘",
+    "name": "Plat : Wok de tofu + nouilles + poivrons",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "poivron",
+      "tofu",
+      "nouille"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "poivron"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "tofu"
+      ]
+    },
+    "carbs": [
+      "nouille"
+    ],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🍓",
+    "name": "Dessert : Framboises",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "framboise"
+    ],
+    "fruits": [
+      "framboise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "VENDREDI",
+    "type": "🕒",
+    "name": "Goûter : Cerises + yaourt",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "yaourt",
+      "cerise"
+    ],
+    "fruits": [
+      "cerise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "yaourt"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Skyr + flocons + framboises",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "framboise",
+      "flocon",
+      "skyr"
+    ],
+    "fruits": [
+      "framboise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "skyr"
+      ],
+      "vegetal": []
+    },
+    "carbs": [
+      "flocon"
+    ],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🍽️",
+    "name": "Entrée : Tomate mozzarella",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "tomate",
+      "mozzarella"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "tomate"
+    ],
+    "proteins": {
+      "animal": [
+        "mozzarella"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🥘",
+    "name": "Plat : Gratin d’aubergines + lentilles",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "lentille",
+      "aubergine"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "aubergine"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "lentille"
+      ]
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🍓",
+    "name": "Dessert : Pastèque",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pastèque"
+    ],
+    "fruits": [
+      "pastèque"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "SAMEDI",
+    "type": "🕒",
+    "name": "Goûter : Abricot + fromage",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "fromage",
+      "abricot"
+    ],
+    "fruits": [
+      "abricot"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [
+        "fromage"
+      ],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🥣",
+    "name": "Petit-déjeuner : Pain complet + purée d’amande + raisins secs",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "purée d’amande",
+      "amande",
+      "raisin",
+      "pain"
+    ],
+    "fruits": [
+      "raisin"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [
+      "pain"
+    ],
+    "fats": [
+      "purée d’amande",
+      "amande"
+    ]
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🍽️",
+    "name": "Entrée : Soupe froide de petits pois à la menthe",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "petits pois"
+    ],
+    "fruits": [],
+    "vegetables": [
+      "petits pois"
+    ],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🥘",
+    "name": "Plat : Couscous végétarien (semoule + pois chiches + légumes)",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "semoule",
+      "pois chiche"
+    ],
+    "fruits": [],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": [
+        "pois chiche"
+      ]
+    },
+    "carbs": [
+      "semoule"
+    ],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🍓",
+    "name": "Dessert : Fraises",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "fraise"
+    ],
+    "fruits": [
+      "fraise"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": []
+  },
+  {
+    "day": "DIMANCHE",
+    "type": "🕒",
+    "name": "Goûter : Pomme + 10 amandes",
+    "calories": "env. 100-450 kcal",
+    "ingredients": [
+      "pomme",
+      "amande"
+    ],
+    "fruits": [
+      "pomme"
+    ],
+    "vegetables": [],
+    "proteins": {
+      "animal": [],
+      "vegetal": []
+    },
+    "carbs": [],
+    "fats": [
+      "amande"
+    ]
+  }
+]
