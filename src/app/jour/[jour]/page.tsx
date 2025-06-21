@@ -18,13 +18,12 @@ export async function generateStaticParams() {
   }));
 }
 
-interface JourPageProps {
-  params: {
-    jour: string;
-  };
-}
+type Props = {
+  params: { jour: string };
+  searchParams: { [key: string]: string | string[] | undefined };
+};
 
-export default async function JourPage({ params }: JourPageProps) {
+export default async function JourPage({ params }: Props) {
   const { jour } = params;
 
   // Charger les données du fichier JSON
