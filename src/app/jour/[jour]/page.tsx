@@ -18,13 +18,15 @@ export async function generateStaticParams() {
   }));
 }
 
+// Correction pour Next.js 15 : params est maintenant une Promise
 type Props = {
-  params: { jour: string };
-  searchParams: { [key: string]: string | string[] | undefined };
+  params: Promise<{ jour: string }>;
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 };
 
 export default async function JourPage({ params }: Props) {
-  const { jour } = params;
+  // Await params pour Next.js 15
+  const { jour } = await params;
 
   // Charger les données du fichier JSON
   const jsonDirectory = path.join(process.cwd());
